@@ -4,25 +4,25 @@
 
 ![Screenshot](Images/Screenshot_1.png)
 
-![Screenshot_2](images/Screenshot_2.png)
+![Screenshot_2](Images/Screenshot_2.png)
 
-![Screenshot_3](images/Screenshot_3.png)
-![Screenshot_4](images/Screenshot_4.png)
-![Screenshot_5](images/Screenshot_5.png)
-![Screenshot_5](images/Screenshot_6.png)
+![Screenshot_3](Images/Screenshot_3.png)
+![Screenshot_4](Images/Screenshot_4.png)
+![Screenshot_5](Images/Screenshot_5.png)
+![Screenshot_5](Images/Screenshot_6.png)
 
 
 
 ### The output of classification-exp.py
 
 
-![Screenshot_5](images/Screenshot_7.png)
+![Screenshot_5](Images/Screenshot_7.png)
 
 ### The output for experiments.py is
 
 
-![Screenshot_5](images/ScreenShot_8.jpeg)
-![Screenshot_5](images/ScreenShot_9.jpeg)
+![Screenshot_5](Images/ScreenShot_8.jpeg)
+![Screenshot_5](Images/ScreenShot_9.jpeg)
 
 
 
